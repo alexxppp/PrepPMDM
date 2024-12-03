@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">actividades_1</string>
+    <string name="vuelve">Vuelve a la actividad anterior</string>
+    <string name="ir">Ir a la siguiente actividad</string>
+    <string name="ir_con_datos">Ir con datos</string>
+    <string name="ver_datos">Ver datos</string>
+</resources>

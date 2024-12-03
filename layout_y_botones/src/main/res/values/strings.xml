@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">layout_y_botones</string>
+    <string name="primer_boton">Primer boton de la lista</string>
+    <string name="segundo_boton">Segundo boton de la lista</string>
+    <string name="text_view_horizontal">Esto está dentro de un LinearLayout horizontal</string>
+    <string name="tercero">Tercer boton de la lista</string>
+</resources>
