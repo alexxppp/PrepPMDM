@@ -11,8 +11,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/actividades_1" />
+            <option value="$PROJECT_DIR$/card_view" />
             <option value="$PROJECT_DIR$/imagen_fondo" />
             <option value="$PROJECT_DIR$/layout_y_botones" />
+            <option value="$PROJECT_DIR$/recycler_view" />
+            <option value="$PROJECT_DIR$/sensores" />
+            <option value="$PROJECT_DIR$/spinner" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
